@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# windows
+Include/*
+Scripts/*
+pip-selfcheck.json
+tcl/*
